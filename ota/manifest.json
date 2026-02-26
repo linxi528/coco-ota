@@ -1,9 +1,9 @@
 {
-  "version": "0.0.0",
-  "url": "",
-  "sha256": "",
-  "size": 0,
-  "release_notes": "",
+  "version": "1.0.1",
+  "url": "https://github.com/linxi528/coco-ota/releases/download/v1.0.1/coco_1.0.1.bin",
+  "sha256": "6ed606de59d3c039608263ac2b1726ca172ed47617df9f4251792db3bf246067",
+  "size": 2717600,
+  "release_notes": "Update to 1.0.1",
   "min_battery": 30,
   "mandatory": false,
   "hw_model": "COCO_S3_V1"
