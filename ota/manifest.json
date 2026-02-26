@@ -1,0 +1,10 @@
+{
+  "version": "0.0.0",
+  "url": "",
+  "sha256": "",
+  "size": 0,
+  "release_notes": "",
+  "min_battery": 30,
+  "mandatory": false,
+  "hw_model": "COCO_S3_V1"
+}
